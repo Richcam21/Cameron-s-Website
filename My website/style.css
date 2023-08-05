@@ -1,0 +1,14 @@
+body {
+	background-color: powderblue;
+}
+h1 {color: powderblue;}
+nav {color: red;}
+header {
+	background-color: black;
+	padding: 15px;
+	color: #fff;
+}
+nav {
+	background-color: gray;
+	padding: 10px;
+}
